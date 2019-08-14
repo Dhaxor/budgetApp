@@ -1,0 +1,83 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.for-image{
+    background-image: url(sample.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 25%;
+}
+
+
+.The-buttons{
+    font-family: 'Work Sans', sans-serif;
+     position: absolute;
+     margin-left: 30px;
+     left: 37%;
+     top: 65%;
+     min-width:400px;
+     
+}
+.The-button2{
+    
+    font-family: 'Work Sans', sans-serif;
+    position: absolute;
+    margin-left: 30px;
+    left: 37%;
+    top: 80%;
+    min-width:400px;
+    
+}
+.nav-text0{
+    font-family: 'Work Sans', sans-serif;
+    color: white;
+    position: absolute;
+    left: 38%;
+    top: 38%;
+    font-size: 30px;
+
+}
+.nav-text1{
+    animation: 3s mymove;
+    font-family: 'Work Sans', sans-serif;
+    color: white;
+    position: absolute;
+    left: 45%;
+    top: 45%;
+    font-size: 50px;
+}
+@keyframes mymove{
+    from{
+        transform: scale(0);
+    }
+    to{
+        transform: scale(1);
+    }
+}
+
+
+.jumbotron{
+    padding-bottom: 20px;
+}
+#inputsm{
+    position: absolute;
+    left: 39%;
+    top: 25%;
+    width: 400px;
+}
+
+#test0{
+    float: left;
+}
+#test1{
+    float: right;
+}
+
+#text0{
+    float: left;
+}
+#text1{
+    float: right;
+}
