@@ -1,2 +1,2 @@
 # budgetApp
-The app calculates you incomes and expenses in a given month.
+The app calculates your incomes and expenses in a given month.
